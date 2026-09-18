@@ -2,14 +2,9 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: rgb(11, 199, 18);
+  background-color: rgb(230, 242, 12);
 }
 h1 {
   color: #09b746;
   text-align: center;
 }
-<style>
-  p {
-    color: #3409cf;
-  }
-</style>
